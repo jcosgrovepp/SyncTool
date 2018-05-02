@@ -1,0 +1,10 @@
+c:\users\justin\documents\visual studio 2017\Projects\SyncTool\SyncTool\bin\Debug\SyncTool.exe.config
+c:\users\justin\documents\visual studio 2017\Projects\SyncTool\SyncTool\bin\Debug\SyncTool.exe
+c:\users\justin\documents\visual studio 2017\Projects\SyncTool\SyncTool\bin\Debug\SyncTool.pdb
+c:\users\justin\documents\visual studio 2017\Projects\SyncTool\SyncTool\bin\Debug\Sage.Peachtree.API.dll
+c:\users\justin\documents\visual studio 2017\Projects\SyncTool\SyncTool\bin\Debug\Sage.Peachtree.API.Resolver.dll
+c:\users\justin\documents\visual studio 2017\Projects\SyncTool\SyncTool\obj\Debug\SyncTool.csprojResolveAssemblyReference.cache
+c:\users\justin\documents\visual studio 2017\Projects\SyncTool\SyncTool\obj\Debug\SyncTool.Resource1.resources
+c:\users\justin\documents\visual studio 2017\Projects\SyncTool\SyncTool\obj\Debug\SyncTool.csproj.GenerateResource.Cache
+c:\users\justin\documents\visual studio 2017\Projects\SyncTool\SyncTool\obj\Debug\SyncTool.exe
+c:\users\justin\documents\visual studio 2017\Projects\SyncTool\SyncTool\obj\Debug\SyncTool.pdb
